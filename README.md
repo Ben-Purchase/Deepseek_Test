@@ -5,6 +5,7 @@ Through testing I have deemed this 'not ready yet' for use in our robot waiter, 
 - The AI often trailing off
 - The AI derailing when misunderstanding a prompt
 - Not having powerful enough hardware to run a more advanced model fast enough
+
 The AI model has shown promise in regards to the way it can handle prompts however, allowing users to specify roughly what they want or using other names for dishes and pinpointing which dish they would really like, as well as deciphering some inconsistencies that the speech interpreter may relay.
 ## How to Run
 
