@@ -39,7 +39,7 @@ project/
 ### Running the Program
 1. Start the Flask server:
    ```bash
-   python ai_interpreter.py
+   python ai_interpereter.py
    ```
 
 2. Open your browser to:
